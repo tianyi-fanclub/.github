@@ -1,12 +1,11 @@
-## Hi there 👋
+# 你好！初次见面，请多指教！👋
 
-<!--
+## 我们是谁❓
 
-**Here are some ideas to get you started:**
+我们是**洛天依饭制组**。目前，饭制组人数不多，许多人并没有注册GitHub账户，所以实际管理这个Organization的只有创办者本人。
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 加入我们💬
+
+这还是一个鲜活的社区，一个有生命力的社区，新生的社区，不完善的社区，还在等待我们进一步完善。
+
+若要联系或加入，请发送邮箱：**mfn233@qq.com**
