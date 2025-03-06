@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://avatars.githubusercontent.com/u/143336098?s=400" alt="Logo" width="320" height="320">
-<h1>LTY-Followers | 天依社</h1>
+<h1>Tianyi-FanClub | 天依社</h1>
 
 **你好！初次见面，请多指教！👋**
 
