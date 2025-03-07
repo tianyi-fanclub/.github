@@ -1,3 +1,1 @@
-tianyi-fanclub/.github is a special repository.
-
-The /profile/README.md will appear on the organization's profile.
+<img src="https://avatars.githubusercontent.com/u/143336098?s=400" alt="Logo" width="320" height="320">
